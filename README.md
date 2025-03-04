@@ -41,13 +41,13 @@ Both methods give similar results, but gradient descent is more scalable for lar
 ## **Screenshots of Output**
 
 ### **1. Linear Scan Output**
-![Linear Scan](screenshots/Screenshot 2025-03-04 155934.png)
+![Linear Scan](screenshots/linear.png)
 
 ### **2. Gradient Descent Output**
-![Gradient Descent](screenshots/Screenshot 2025-03-04 155947.png)
+![Gradient Descent](screenshots/gd.png)
 
 ### **3. Comparison Plot**
-![Comparison](screenshots/Screenshot 2025-03-04 155959.png)
+![Comparison](screenshots/compare.png)
 
 **Conclusion**
 This project was a great way to understand two fundamental optimization techniques in machine learning. It also helped in improving my understanding of OOP in Python by structuring the code properly.
